@@ -2,6 +2,10 @@ const axios = require('axios')
 const { FAKER_API_URL } = require('./constants')
 const { mapResponse } = require('./utils')
 
+/* Dependencies added. */
+
+console.log('Dependencies added success!.')
+
 /**
  * Generates fake data using Faker API.
  * @async
@@ -38,5 +42,5 @@ async function generate(params = {}) {
 
   return results
 }
-
+// generate your fake generator data.
 module.exports = generate
