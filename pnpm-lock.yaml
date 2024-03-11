@@ -9,8 +9,8 @@ dependencies:
     specifier: ^1.6.7
     version: 1.6.7
   efanfitriyans-faker-solution:
-    specifier: ^1.0.1
-    version: 1.0.1
+    specifier: ^1.0.2
+    version: 1.0.2
 
 packages:
   /asynckit@0.4.0:
